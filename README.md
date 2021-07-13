@@ -1,11 +1,13 @@
-# [Título del trabajo]
+# Venta de entradas de AquaPark
 
-[Descripción breve del proyecto a realizar (2-3 frases).]
+Máquina de venta de entradas del parque acuático de AquaPark
 
 ## Integrantes del equipo
 
-[Nombres, apellidos, y usuario GitHub de los integrantes del equipo.]
+Mario Carrión Sirvent m.csirvent@alumnos.upm.es
 
 ## Objetivos del trabajo
 
-[Lista de los objetivos que se persiguen con el trabajo propuesto.]
+En este trabajo se busca realizar un programa que en la pantalla de una máquina de venta de entradas automática muestre al cliente
+los diferentes tipos de entrada junto a su precio y su actual stock. El cliente podrá escoger la cantidad y el tipo de entrada
+deseada, además, podrá ver su cesta de compra y proceder al pago de la operación. La máquina no acepta céntimos.
