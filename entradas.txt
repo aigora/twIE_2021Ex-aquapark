@@ -1,0 +1,6 @@
+Adulto_Normal(A)	10	5
+Infantil_Normal(I)	7	5
+Adulto_FilaRapida(R)	13	5
+Infantil_FilaRapida(S)	9	5
+Adulto_Menu(M)          15	5
+Infantil_Menu(N)	12	5
